@@ -405,34 +405,34 @@ https://sk.cri.cn/887.m3u8
 #EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211222/1640137536123.jpg" radio="true" group-title="央广",CGTN Radio
 https://sk.cri.cn/am846.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/1804984185d9a52dd0a43ea84e846740.jpg" radio="true" group-title="湖北",湖北之声
+#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/1804984185d9a52dd0a43ea84e846740.jpg" radio="true" group-title="湖北",湖北之声(FM104.6)
 https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/71b066f9b7250bbc318b6bd2e2a0961f.jpg" radio="true" group-title="湖北",湖北经济广播
+#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/71b066f9b7250bbc318b6bd2e2a0961f.jpg" radio="true" group-title="湖北",湖北经济广播(FM99.8)
 https://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/076cdd0922b49b58e13f780ab3dcdede.jpg" radio="true" group-title="湖北",楚天交通广播
+#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/076cdd0922b49b58e13f780ab3dcdede.jpg" radio="true" group-title="湖北",楚天交通广播(FM92.7)
 https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/202106/f7685f4d1f2b5cd652a9e25577d1ecdf.jpg" radio="true" group-title="湖北",湖北城市之声
+#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/202106/f7685f4d1f2b5cd652a9e25577d1ecdf.jpg" radio="true" group-title="湖北",湖北城市之声(FM107.8)
 https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/d2cf171b043ef73a912de885eaaab76d.jpg" radio="true" group-title="湖北",楚天音乐广播
+#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/d2cf171b043ef73a912de885eaaab76d.jpg" radio="true" group-title="湖北",楚天音乐广播(FM105.8)
 https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/202106/8aadf28efd24bca96419fc31ff6c63e2.jpg" radio="true" group-title="湖北",湖北经典音乐广播
+#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/202106/8aadf28efd24bca96419fc31ff6c63e2.jpg" radio="true" group-title="湖北",湖北经典音乐广播(FM103.8)
 https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/d117a2bccf3af0b79710b3046fbcd076.jpg" radio="true" group-title="湖北",湖北农村广播
+#EXTINF:-1 tvg-logo="https://img.cjyun.org.cn/a/10008/201812/d117a2bccf3af0b79710b3046fbcd076.jpg" radio="true" group-title="湖北",湖北农村广播(FM91.2)
 https://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20221211/1670743148470.jpg" radio="true" group-title="湖北",中国交通广播（湖北）
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20221211/1670743148470.jpg" radio="true" group-title="湖北",中国交通广播(湖北)
 https://ytcastmp3.radio.cn/72/stream_10753.mp3?type=1&key=b908e0d7ffdc4ffb7d21a9093e1cb9ef&time=663f21de
 
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" radio="true" group-title="武汉",武汉新闻广播
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" radio="true" group-title="武汉",武汉新闻广播(FM88.4)
 http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/1125/20151125214015766.jpg" radio="true" group-title="武汉",武汉经济广播
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/1125/20151125214015766.jpg" radio="true" group-title="武汉",武汉经济广播(FM100.6)
 http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" radio="true" group-title="武汉",武汉音乐广播
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" radio="true" group-title="武汉",武汉音乐广播(FM101.8)
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2018/0101/20180101120944.jpeg" radio="true" group-title="武汉",武汉交通广播
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2018/0101/20180101120944.jpeg" radio="true" group-title="武汉",武汉交通广播(FM89.6)
 http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" radio="true" group-title="武汉",武汉青少广播
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" radio="true" group-title="武汉",武汉青少广播(FM93.6)
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2022/0209/20220209113713.jpeg" radio="true" group-title="武汉",FM1064城市生活音乐广播
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2022/0209/20220209113713.jpeg" radio="true" group-title="武汉",城市生活音乐广播(FM106.4)
 https://lhttp.qingting.fm/live/5022716/64k.mp3
 
 
